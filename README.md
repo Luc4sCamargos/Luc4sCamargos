@@ -1,6 +1,6 @@
 ### Olá, Mundo! Eu sou o João Lucas 👋
 
-- 🔭 Hoje trabalho como estagiário na Nuvolax Brasil
+- 🔭 Hoje trabalho como estagiário 
 - 🌱 Técnico em Redes de Computadores  
 - 💬 Cursando Bacharelado em Ciência da Computação
 - ⚡ Fun fact: PotterHead
