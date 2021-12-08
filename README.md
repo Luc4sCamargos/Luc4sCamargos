@@ -1,11 +1,5 @@
 ### FALA AÍ, PESSOAL! 👋
 
-<div align="center", border-radius: '10px';>
-    <img height="300x" src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif"/> 
-</div>
-
-
-
 ##
 
 ### SIMPLESMENTE EU :)
