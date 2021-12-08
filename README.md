@@ -1,7 +1,7 @@
 ### FALA AÍ, PESSOAL! 👋
 
 <div align="center">
-    <img height="500x" src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif"/>
+    <img height="300x" src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif"/>
   
 </div>
 
