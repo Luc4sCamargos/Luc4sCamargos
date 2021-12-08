@@ -1,9 +1,20 @@
-### Olá, Mundo! Eu sou o João Lucas 👋
+### FALA AÍ, PESSOAL! 👋
+
+<div align="center">
+    <img height="500x" src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif"/>
+  
+</div>
+
+##
+
+### SIMPLESMENTE EU :)
 
 - 🔭 Technical Consultant | Servicenow | TI
 - 🌱 Técnico em Redes de Computadores  
 - 💬 Cursando Bacharelado em Ciência da Computação
 - ⚡ Fun fact: PotterHead
+
+
 
 <div align="left">
     <a href="https://github.com/Luc4sCamargos">
