@@ -9,8 +9,6 @@
 - 💬 Cursando Bacharelado em Ciência da Computação
 - ⚡ Fun fact: PotterHead
 
-
-
 <div align="left">
     <a href="https://github.com/Luc4sCamargos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luc4sCamargos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
